@@ -1,0 +1,3 @@
+auto-activating-snippets: 4bd59a656b → 85cd255347
+vlf: cc02f25337 → cc02f25337
+rotate: 091b5ac4fc → 03835d473a
